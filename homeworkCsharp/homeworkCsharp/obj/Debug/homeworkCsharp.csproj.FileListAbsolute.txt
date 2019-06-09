@@ -1,0 +1,7 @@
+C:\Users\Predein\source\repos\homeworkCsharp\homeworkCsharp\bin\Debug\homeworkCsharp.exe.config
+C:\Users\Predein\source\repos\homeworkCsharp\homeworkCsharp\bin\Debug\homeworkCsharp.exe
+C:\Users\Predein\source\repos\homeworkCsharp\homeworkCsharp\bin\Debug\homeworkCsharp.pdb
+C:\Users\Predein\source\repos\homeworkCsharp\homeworkCsharp\obj\Debug\homeworkCsharp.csprojAssemblyReference.cache
+C:\Users\Predein\source\repos\homeworkCsharp\homeworkCsharp\obj\Debug\homeworkCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Predein\source\repos\homeworkCsharp\homeworkCsharp\obj\Debug\homeworkCsharp.exe
+C:\Users\Predein\source\repos\homeworkCsharp\homeworkCsharp\obj\Debug\homeworkCsharp.pdb
